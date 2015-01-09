@@ -186,11 +186,14 @@ func (sc *ServerContext) AddDatabaseFromConfig(config *DbConfig) (*db.DatabaseCo
 		return nil, fmt.Errorf("Unrecognized value for ImportDocs: %#v", config.ImportDocs)
 	}
 
+	feedType := strings.ToLower(config.FeedType)
+
 	// Connect to the bucket and add the database:
 	spec := base.BucketSpec{
 		Server:     server,
 		PoolName:   pool,
 		BucketName: bucketName,
+		FeedType:   feedType,
 	}
 	if config.Username != "" {
 		spec.Auth = config
@@ -276,6 +279,7 @@ func (sc *ServerContext) startShadowing(dbcontext *db.DatabaseContext, shadow *S
 		Server:     *shadow.Server,
 		PoolName:   "default",
 		BucketName: shadow.Bucket,
+		FeedType:   shadow.FeedType,
 	}
 	if shadow.Pool != nil {
 		spec.PoolName = *shadow.Pool
