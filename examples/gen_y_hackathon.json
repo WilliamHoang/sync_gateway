@@ -1,0 +1,162 @@
+{
+  "log": ["CRUD", "REST+", "Access"],
+  "facebook": { "register": true },
+  "databases": {
+    "hack1": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack2": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack3": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack4": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack5": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack6": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack7": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack8": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack9": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack10": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack11": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack12": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack13": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack14": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack15": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack16": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack17": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack18": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack19": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack20": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack21": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack22": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack23": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack24": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack25": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    },
+    "hack26": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
+    }
+  }
+}
