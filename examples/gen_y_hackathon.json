@@ -157,6 +157,12 @@
       "users": {
         "GUEST": {"disabled": false, "admin_channels": ["*"]}
       }
+    },
+    "hack27": {
+      "server":"walrus:data",
+      "users": {
+        "GUEST": {"disabled": false, "admin_channels": ["*"]}
+      }
     }
   }
 }
